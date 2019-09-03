@@ -6,4 +6,5 @@ This repository has the project files for a tutorial series on Spring Boot avail
 
 ## This is just a demo
 
-## Now we got merge conflict
+## Working on git merges
+
